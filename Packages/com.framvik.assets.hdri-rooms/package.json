@@ -1,0 +1,8 @@
+{
+  "name": "com.framvik.assets.hdri-rooms",
+  "version": "1.0.0",
+  "displayName": "HDRI Rooms",
+  "description": "A collection of free HDRI environment textures packed for Unity. \nThese textures contains some generic room environments.",
+  "unity": "2022.3",
+  "hideInEditor": false
+}

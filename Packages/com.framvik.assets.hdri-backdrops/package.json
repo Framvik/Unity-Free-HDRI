@@ -1,0 +1,8 @@
+{
+  "name": "com.framvik.assets.hdri-backdrops",
+  "version": "1.0.0",
+  "displayName": "HDRI Backdrops",
+  "description": "A collection of free HDRI environment textures packed for Unity. \nThese textures contains sky lighting and some distant backdrop environment.",
+  "unity": "2022.3",
+  "hideInEditor": false
+}

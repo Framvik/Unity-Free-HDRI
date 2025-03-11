@@ -1,0 +1,10 @@
+Original assets are CC0 8K resources but have been renamed with possibly some minor adjustments.
+
+https://polyhaven.com
+rostock_laage_airport 	-> HDRI_PH_PublicPlace_Airport
+sculpture_exhibition 	-> HDRI_PH_PublicPlace_Exibition
+cinema_lobby			-> HDRI_PH_PublicPlace_Lobby
+parking_garage			-> HDRI_PH_PublicPlace_Garage
+metro_vijzelgracht		-> HDRI_PH_PublicPlace_Metro
+subway_entrance			-> HDRI_PH_PublicPlace_Subway
+phone_shop				-> HDRI_PH_PublicPlace_Store

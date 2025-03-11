@@ -1,0 +1,8 @@
+{
+  "name": "com.framvik.assets.hdri-skies",
+  "version": "1.0.0",
+  "displayName": "HDRI Skies",
+  "description": "A collection of free HDRI sky environment textures packed for Unity. \nThese textures are intended to focus on lighting from the sky only.",
+  "unity": "2022.3",
+  "hideInEditor": false
+}

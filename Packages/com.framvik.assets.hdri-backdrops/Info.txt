@@ -1,0 +1,10 @@
+Original assets are CC0 8K resources but have been renamed with possibly some minor adjustments.
+
+https://polyhaven.com
+approaching_storm 	-> HDRI_PH_Backdrop_FieldGreen
+mall_parking_lot 	-> HDRI_PH_Backdrop_ParkingLot
+snow_field_2		-> HDRI_PH_Backdrop_FieldWhite
+yellow_field		-> HDRI_PH_Backdrop_FieldYellow
+
+https://ambientcg.com
+DaySkyHDRI015A		-> HDRI_ACG_Backdrop_TownHill

@@ -1,0 +1,9 @@
+Original assets are CC0 8K resources but have been renamed with possibly some minor adjustments.
+
+https://ambientcg.com
+DaySkyHDRI001B		-> HDRI_ACG_Sky_DayClear
+DaySkyHDRI008B		-> HDRI_ACG_Sky_DayClouds
+MorningSkyHDRI008B	-> HDRI_ACG_Sky_Morning
+EveningSkyHDRI027B	-> HDRI_ACG_Sky_Evening
+NightSkyHDRI016A	-> HDRI_ACG_Sky_NightLights
+NightSkyHDRI001		-> HDRI_ACG_Sky_NightStars

@@ -1,0 +1,9 @@
+Original assets are CC0 8K resources but have been renamed with possibly some minor adjustments.
+
+https://polyhaven.com
+comfy_cafe		 		-> HDRI_PH_Room_Comfy
+decor_shop 				-> HDRI_PH_Room_Decor
+hospital_room_2			-> HDRI_PH_Room_HospitalWard
+hospital_room			-> HDRI_PH_Room_HospitalRoom
+unfinished_office		-> HDRI_PH_Room_GenericDay
+unfinished_office_night	-> HDRI_PH_Room_GenericNight
